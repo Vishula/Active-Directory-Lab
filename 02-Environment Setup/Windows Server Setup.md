@@ -1,4 +1,4 @@
-<img width="709" height="386" alt="image" src="https://github.com/user-attachments/assets/7719518e-26bc-4f28-a1aa-d3f0ac3f4a15" /># Windows Server 2022 Setup 
+
 
 In this state, I installed and configured Windows Server 2022 as the Domain Controller (DC) for my lab environment. The process included setting a static IP, changing the computer name, installing AD DS, and promoting the server to a DC. 
 

@@ -1,0 +1,18 @@
+# Widows 11 Client Setup 
+
+This section details how i configured and joined two Windows 11 Pro clients (AD-WIN11-01 and AD-WIN11-02) to my domain ozlab.local
+
+# Virutal Machine Configuration 
+
+I created 2 new VMs in Oracle VirtualBox with the following specifications: 
+
+- VM Nammes: AD-WIN11-01 and AD-WIN11-02
+- OS: Windows 11 Pro 
+- RAM: 8GB each
+- CPU: 2 cires each
+- Disk: 50GB
+- Network Adapter: Internal Network (same as DC) 
+
+# VirtualBox VM Settings for AD-WIN11-01  
+
+

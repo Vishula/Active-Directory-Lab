@@ -4,7 +4,7 @@
 
 This section of the AD lab focuses on the foundational setup and configuration of AD services. It encompasses the installation and configuration of AD DS, DNS settings and essential Group Policy Objects (GPOs) to establish a secure and well structured domain environment. 
 
-#1. Active Directory Setup 
+# 1. Active Directory Setup 
 The initial step involes installing AD DS role and promoting the server to a domain controller. This establishes the core of the Active Diretory infrastrucutre. 
 
 # Steps Performed: 
